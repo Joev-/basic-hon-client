@@ -2,7 +2,7 @@
 
 A simple hon client I used for testing which demonstrates the usage of [HoNCore](http://github.com/Joev-/HoNCore)
 
-It runs on the command line and requires that HoNCore be available in the lib module (Create a lib folder with an __init__.py file and symlink/copy honcore to there)
+It runs on the command line and requires that HoNCore be available in the lib module (Create a lib folder with an `__init__.py` file and symlink/copy honcore to there)
 
 ## License
 
